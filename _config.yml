@@ -1,0 +1,36 @@
+# Site settings
+title:          "Jälki-kehitysloki"
+description:    "Jälki-verkkopalvelussa tehdyt muutokset, korjaukset ja kaikenlaiset muut päivitykset."
+baseurl:        ""
+url:            "https://loki.jalki.fi"
+
+# Author
+author:
+  name:         Mika Haulo
+  url:          https://jalki.fi
+  email:        mika@haulo.fi
+
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+# Excludes
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+
