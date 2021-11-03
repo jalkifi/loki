@@ -13,6 +13,13 @@ footer,
   width: 80%;
 }
 
+.nav-container {
+  p {
+    margin: 0;
+    font-weight: bold;
+  }
+}
+
 .nav {
   box-shadow: 0 2px 2px -2px $shadow-color;
   overflow: auto;
