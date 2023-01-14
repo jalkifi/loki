@@ -16,7 +16,7 @@ Jokaista alueen oma sivu listaa sekä reitit ja paikat, jotka kulkevat tai sijai
 
 Vastaavasti reittisivulla näkyy huomautus, jos reitti kulkee yhden tai useamman rajoitetun alueen lähistöllä.
 
-![Huomaustus rajoitusalueista reittisivulla](/assets/images/rajoitetut2.png "Huomaustus rajoitusalueista reittisivulla")
+![Huomautus rajoitusalueista reittisivulla](/assets/images/rajoitetut2.png "Huomautus rajoitusalueista reittisivulla")
 
 Rajoitusaluetiedot ovat luonteeltaan suuntaa-antavia. Esimerkiksi luonnonsuojelualueen läpi saattaa kulkea tie, jota pitkin voi kulkea, vaikka muutoin pyöräily olisikin alueella kiellettyä. Tällaisessa tapauksessa reitin oheen tulee silti huomautus, sillä reitti kulkee alueen rajojen sisällä. Ominaisuuden tarkoitus on antaa lisätietoa, jotta tällaiset asiat eivät tulisi yllätyksenä.
 
